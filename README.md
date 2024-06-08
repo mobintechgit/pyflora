@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyflora
+- 👋 Hi, I’m Mobin
 - 👀 I’m interested in psychology, information extraction (web scraping), and natural language processing.
 - 🌱 I’m currently learning natural language processing.
 - 💞️ I’m looking to collaborate on web scraping and NLP projects.
